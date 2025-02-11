@@ -7,5 +7,5 @@ My name is Miguel, and i'm a undergraduated computer science student. Im interes
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me:
   - [Linkedln Profile](https://www.linkedin.com/in/miguel-batista-7a549b295/)
-  - E-mail - miguelsbatista0610@gmail.com
+  - miguelsbatista0610@gmail.com
     
