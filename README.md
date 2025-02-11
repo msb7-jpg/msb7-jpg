@@ -2,7 +2,7 @@
 
 I'm Miguel, an aspiring software engineer passionate about using code to solve problems. 🚀
 
-"<i>I’m not a great programmer, I’m just a good programmer with great habits.<i>"
+"<i>I’m not a great programmer, I’m just a good programmer with great habits.</i>"
 
 🔭 Currently working on [Video App](https://github.com/MigueldsBatista/streaming_app.git), a Spring Boot REST API for video streaming.
 🌱 Leveling up my frontend skills through [Formação Frontend](https://github.com/MigueldsBatista/formacao-frontend), diving deep into HTML, CSS, JavaScript, and React.
