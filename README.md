@@ -10,5 +10,5 @@ I'm Miguel, an aspiring software engineer passionate about using code to solve p
 - 💡 Always exploring new technologies, solving complex problems, and writing clean, efficient code. Let's build something amazing together!
 
 - 📫 Find me here:
-  -🔗 [LinkedIn](https://www.linkedin.com/in/miguel-batista-7a549b295/)
-  -📧 miguelsbatista0610@gmail.com
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-batista-7a549b295/)
+  - 📧 miguelsbatista0610@gmail.com
