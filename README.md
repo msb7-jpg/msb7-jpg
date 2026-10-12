@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-batista-7a549b295/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelsbatista0610@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MigueldsBatista)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msb7-jpg)
 
 <p align="center">
   <b>Computer Science Student at CESAR School & Software Engineer</b><br>
@@ -83,12 +83,12 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**trt6-juris-intelligence**](https://github.com/MigueldsBatista/trt6-juris-intelligence) | OCR and LLM-powered legal intelligence pipeline extracting TRT-6 labor court records with semantic vector search. | `Python` `Django` `Vue.js` `pgvector` `Celery` `Docker` |
-| [**b3-invest-agent**](https://github.com/MigueldsBatista/b3-invest-agent) | Autonomous agent monitoring B3 material facts, insider trading events, and generating local LLM summaries via Telegram alerts. | `Python` `LangChain` `Pydantic` `Telegram Bot` `Automation` |
-| [**langgraph-agentic-rag**](https://github.com/MigueldsBatista/langgraph-agentic-rag) | Corrective RAG agent built with LangGraph and local LLMs (`llama.cpp`) featuring document grading, dynamic query rewriting, and state checkpoints. | `Python` `LangGraph` `LangChain` `Agentic RAG` `llama.cpp` |
-| [**hospital-management-system**](https://github.com/MigueldsBatista/hospital-management-system) | Full-stack hospital management system with patient portal, room allocations, meal orders, and administrative dashboard. | `Java` `Spring Boot` `MySQL` `React.js` `Docker` |
-| [**iot-api**](https://github.com/MigueldsBatista/iot-api) | High-performance IoT server management backend with sensor ingestion (telemetry), real-time health checks, and auth. | `FastAPI` `Python` `PostgreSQL` `Docker` `REST APIs` |
-| [**flashcard-app**](https://github.com/MigueldsBatista/flashcard-app) | Ultra Focus: spaced repetition flashcard platform with the SM-2 algorithm, image occlusion, and AI study generation. | `Vue.js` `TypeScript` `Supabase` `TailwindCSS` |
+| [**trt6-juris-intelligence**](https://github.com/msb7-jpg/trt6-juris-intelligence) | OCR and LLM-powered legal intelligence pipeline extracting TRT-6 labor court records with semantic vector search. | `Python` `Django` `Vue.js` `pgvector` `Celery` `Docker` |
+| [**b3-invest-agent**](https://github.com/msb7-jpg/b3-invest-agent) | Autonomous agent monitoring B3 material facts, insider trading events, and generating local LLM summaries via Telegram alerts. | `Python` `LangChain` `Pydantic` `Telegram Bot` `Automation` |
+| [**langgraph-agentic-rag**](https://github.com/msb7-jpg/langgraph-agentic-rag) | Corrective RAG agent built with LangGraph and local LLMs (`llama.cpp`) featuring document grading, dynamic query rewriting, and state checkpoints. | `Python` `LangGraph` `LangChain` `Agentic RAG` `llama.cpp` |
+| [**hospital-management-system**](https://github.com/msb7-jpg/hospital-management-system) | Full-stack hospital management system with patient portal, room allocations, meal orders, and administrative dashboard. | `Java` `Spring Boot` `MySQL` `React.js` `Docker` |
+| [**iot-api**](https://github.com/msb7-jpg/iot-api) | High-performance IoT server management backend with sensor ingestion (telemetry), real-time health checks, and auth. | `FastAPI` `Python` `PostgreSQL` `Docker` `REST APIs` |
+| [**flashcard-app**](https://github.com/msb7-jpg/flashcard-app) | Ultra Focus: spaced repetition flashcard platform with the SM-2 algorithm, image occlusion, and AI study generation. | `Vue.js` `TypeScript` `Supabase` `TailwindCSS` |
 
 ---
 
